@@ -4,3 +4,4 @@ pipreqsnb==0.2.4
 scikit_learn==1.4.1.post1
 seaborn==0.13.2
 streamlit==1.31.1
+matplotlib==3.8.3
