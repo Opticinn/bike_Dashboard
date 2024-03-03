@@ -1,0 +1,6 @@
+https://mydashboardproject-ejczszgjzweoxyj64exm7j.streamlit.app/
+
+
+Streamlit tersebut tidak bisa membaca data "day.csv" ketika di deploy, 
+tetapi ketika di run "streamlit run Dashboard.py" itu bisa. 
+Mohon untuk pemberian solusinya.
